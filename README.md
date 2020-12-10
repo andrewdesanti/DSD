@@ -5,7 +5,7 @@
 - Changed projectile color (red to cyan)
 - Added horizontal motion to the projectile
 ## Final Project: BrickBreaker
-This final project is essentially a further modified version of Lab 3: Bat and Ball. The webpage for this project can be found: [HERE](https://sites.google.com/view/andrewdesanti/brickbreaker?authuser=0)
+This final project is essentially a further modified version of Lab 3: Bat and Ball. The webpage for this project can be found: [HERE](https://sites.google.com/view/andrewdesanti/brickbreaker?authuser=0) <br />
 All modifications are found within bat_n_ball.vhd. No other files required editing from their original forms in Lab 3.
 ### Specific Changes:
 - Brick size and position definitions are found in lines 23-24, 29-52, and 59-89.
